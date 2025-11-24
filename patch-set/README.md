@@ -9,7 +9,7 @@ bundles.
 1. Obtain the latest upstream patches from `inotia00/revanced-patches`
    (currently synced at version `v5.13.1`).
 2. Convert the upstream data to `patches.json` using `patches-json-gen.jar`.
-3. Place the generated `patches.json` in this folder for the config
+3. Use the generated `patches.json` in this folder for the config
    generator to consume.
 
 ## Update policy
