@@ -1,30 +1,19 @@
-# ReVanced Magisk Module
+# RVX-Lite APK
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rvc_magisk)
-[![CI](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml)
+[![CI](https://github.com/Scott-Nx/RVX-Lite-BIN/actions/workflows/ci.yml/badge.svg)](https://github.com/Scott-Nx/RVX-Lite-BIN/actions/workflows/ci.yml)
 
-Extensive ReVanced builder
+A precompiled binary package (apk) of Revanced Extended (RVX) that uses a minimal set of patches.
 
-Get the [latest CI release](https://github.com/j-hc/revanced-magisk-module/releases).
-
-Use [**zygisk-detach**](https://github.com/j-hc/zygisk-detach) to detach YouTube and YT Music from Play Store if you are using magisk modules.
+Get the [latest CI release](https://github.com/Scott-Nx/RVX-Lite-BIN/releases).
 
 <details><summary><big>Features</big></summary>
 <ul>
- <li>Support all present and future ReVanced and <a href="https://github.com/inotia00/revanced-patches">ReVanced Extended</a> apps</li>
- <li> Can build Magisk modules and non-root APKs</li>
+ <li>Support all present and future RVX apps</li>
  <li> Updated daily with the latest versions of apps and patches</li>
  <li> Optimize APKs and modules for size</li>
- <li> Modules</li>
-    <ul>
-     <li> recompile invalidated odex for faster usage</li>
-     <li> receive updates from Magisk app</li>
-     <li> do not break safetynet or trigger root detections</li>
-     <li> handle installation of the correct version of the stock app and all that</li>
-     <li> support Magisk and KernelSU</li>
-    </ul>
+
 </ul>
-Note that the <a href="../../actions/workflows/ci.yml">CI workflow</a> is scheduled to build the modules and APKs everyday using GitHub Actions if there is a change in ReVanced patches. You may want to disable it.
+Note that the <a href="../../actions/workflows/ci.yml">CI workflow</a> is scheduled to build the modules and APKs everyday using GitHub Actions if there is a change in RVX patches.
 </details>
 
 ## To include/exclude patches or patch other apps
