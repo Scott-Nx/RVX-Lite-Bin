@@ -2,7 +2,7 @@
 
 [![CI](https://github.com/Scott-Nx/RVX-Lite-BIN/actions/workflows/ci.yml/badge.svg)](https://github.com/Scott-Nx/RVX-Lite-BIN/actions/workflows/ci.yml)
 
-A precompiled binary package (apk) of Revanced Extended (RVX) that uses a minimal set of patches.
+A pre-compiled binary package (apk) of ReVanced Extended (RVX) that uses a minimal set of patches.
 
 See the [patch list](./patch-set/apply-patches.md) for details.
 
