@@ -10,7 +10,7 @@ cli-source = "inotia00/revanced-cli" # where to fetch cli from.
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
-arch = "arm64-v8a"
+arch = "both"
 included-patches = "'Hide ads' 'Change start page' 'Custom branding icon for YouTube Music' 'Custom branding name for YouTube Music' 'Remove background playback restrictions' 'Bitrate default value' 'Sanitize sharing links' 'Settings for YouTube Music'"
 exclusive-patches = true
 
@@ -18,6 +18,6 @@ exclusive-patches = true
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
-arch = "arm64-v8a"
+arch = "both"
 included-patches = "'Hide ads' 'Hook YouTube Music actions' 'Navigation bar components' 'Change start page' 'Custom branding icon for YouTube' 'Custom branding name for YouTube' 'Remove background playback restrictions' 'Bypass URL redirects' 'Sanitize sharing links' 'Settings for YouTube'"
 exclusive-patches = true
